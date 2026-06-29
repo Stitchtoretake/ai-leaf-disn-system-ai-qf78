@@ -1,4 +1,4 @@
-# 
+# Ultime AI leaf disease detection system flux de travail. Avec modèles d'apprentissage profond et traitement en temps réel — optimisé pour des performances maximales.
 
 
 
